@@ -3,7 +3,7 @@ To Install after cloning the repo
 1. > composer install
 2. > npm install
 
-3. > copy .env.example .env
+3. > cp .env.example .env
 4. edit file ".env"
 
     Optional
