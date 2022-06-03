@@ -6,8 +6,9 @@ To Install after cloning the repo
 3. > cp .env.example .env
 4. > edit file ".env"
 
-    Optional
+    
     ------------------------------------------------------------------
+    > Optional
     
     APP_URL=[http://localhost or YOUR_URL i.e. 'http://test.local]
   
