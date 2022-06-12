@@ -1,7 +1,11 @@
 To Install after cloning the repo
 
 1. > composer install
-2. > npm install
+   > composer require phpmailer/phpmailer
+   > composer update --no-scripts  
+   > composer update                 
+   > composer install --ignore-platform-reqs
+3. > npm install
 
 3. > cp .env.example .env
 4. > edit file ".env"
