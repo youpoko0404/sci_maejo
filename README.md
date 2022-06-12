@@ -38,5 +38,5 @@ To Install after cloning the repo
     DB_PASSWORD=[YOUR_DB_PASSWORD]
 
 5. > php artisan key:generate
-6. > php aritsan serve
+6. > php artisan serve 
 7. > npm run watch
